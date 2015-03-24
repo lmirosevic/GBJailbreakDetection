@@ -1,6 +1,6 @@
 # GBJailbreakDetection
 
-iOS jailbreak detection framework for ![GBDeviceInfo](https://github.com/lmirosevic/GBDeviceInfo).
+iOS jailbreak detection framework for [GBDeviceInfo](https://github.com/lmirosevic/GBDeviceInfo).
 
 Usage
 ------------
@@ -25,7 +25,7 @@ pod 'GBDeviceInfo'
 Author
 ------------
 
-![Luka Mirosevic](mailto:luka@goonbee.com) (![@lmirosevic](https://twitter.com/lmirosevic))
+[Luka Mirosevic](mailto:luka@goonbee.com) ([@lmirosevic](https://twitter.com/lmirosevic))
 
 Copyright & License
 ------------
