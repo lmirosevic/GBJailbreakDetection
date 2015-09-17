@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                      = 'GBJailbreakDetection'
-  s.version                   = '1.1.1'
+  s.version                   = '1.2.0'
   s.summary                   = 'Detection for jailbroken devices.'
   s.author                    = 'Luka Mirosevic'      
   s.homepage                  = 'https://github.com/lmirosevic/GBJailbreakDetection'
